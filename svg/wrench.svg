@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.231939mm"
+   height="18.515699mm"
+   viewBox="0 0 18.23194 18.515699"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="wrench.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="186.60975"
+     inkscape:cy="18.607689"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-112.35436,-165.24962)">
+    <g
+       transform="translate(-434.02825,-8.3437003)"
+       aria-label="🔧"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.74451447px;line-height:7.11803913px;font-family:'AR PWanyinzhuai JIS Light';-inkscape-font-specification:'AR PWanyinzhuai JIS Light, ';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35590199;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="text5400-0">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 564.29418,176.01876 q 0.16475,0.38441 0.23797,0.77797 0.0824,0.38441 0.0824,0.79627 0,0.76882 -0.28373,1.49188 -0.28373,0.72305 -0.86034,1.30882 -0.57661,0.58576 -1.29052,0.87865 -0.70475,0.28373 -1.45526,0.28373 -0.6956,0 -1.35458,-0.24712 l -5.42749,5.47325 q 0.23797,0.65899 0.23797,1.34543 0,0.76882 -0.28374,1.51018 -0.28373,0.73221 -0.86034,1.31797 -0.56746,0.57662 -1.28136,0.86035 -0.7139,0.29288 -1.45526,0.29288 -0.78713,0 -1.53764,-0.31119 l 2.54442,-2.60849 -2.05933,-2.1051 -2.54442,2.60849 q -0.16475,-0.38441 -0.24712,-0.77797 -0.0732,-0.39356 -0.0732,-0.80543 0,-0.76881 0.28373,-1.48272 0.28374,-0.72305 0.86035,-1.29966 0.57661,-0.58577 1.29051,-0.8695 0.71391,-0.29288 1.47357,-0.29288 0.75967,0 1.48272,0.29288 l 5.33597,-5.38173 q -0.13729,-0.35695 -0.21051,-0.74136 -0.0732,-0.38441 -0.0732,-0.76881 0,-0.76882 0.28373,-1.49188 0.28373,-0.73221 0.86034,-1.30882 0.57661,-0.58576 1.29052,-0.87865 0.72305,-0.29288 1.47356,-0.29288 0.76882,0 1.50103,0.31119 l -2.54442,2.61764 2.05018,2.09594 z"
+         style="fill:#cccccc;stroke-width:0.35590199"
+         id="path5741" />
+    </g>
+  </g>
+</svg>
