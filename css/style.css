@@ -127,7 +127,8 @@ header {
 
 .container {
     margin: 0 auto;
-    width: 960px;
+    width: 100%;
+    max-width: 960px;
     z-index: 0;
 }
 
@@ -172,7 +173,7 @@ article {
 .thumbnail {
     width: 200px;
     height: 200px;
-    background-color: black;
+    background-color: white;
 }
 
 .thumbnailImg {
