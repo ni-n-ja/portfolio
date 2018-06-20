@@ -152,7 +152,9 @@ article {
     align-items: center;
 }
 
-#landing {}
+#landing {
+    font-size: 7mm;
+}
 
 #aboutContent {
     display: flex;
@@ -241,4 +243,12 @@ footer {
     text-align: center;
     vertical-align: middle;
     color: #0288d1;
+}
+
+.linkIcon {
+    height: 1em;
+    display: inline-flex;
+    vertical-align: text-top;
+    color: #0288d1;
+    fill: #0288d1;
 }
