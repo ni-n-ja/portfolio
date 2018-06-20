@@ -82,25 +82,23 @@ header {
     position: absolute;
     margin: 0 auto;
     z-index: 1;
-    color: #FF0066;
+    color: gray;
     z-index: 1;
 }
 
 .headerText a:link {
     text-decoration: none;
-    /* color: #FF0066; */
-    color: #FF0066;
+    color: gray;
 }
 
 .headerText a:visited {
     text-decoration: none;
-    color: #FF0066;
-    /* color: white; */
+    color: gray;
 }
 
 .headerText a:hover {
     text-decoration: none;
-    color: #FF0066;
+    color: gray;
 }
 
 .headerText a:active {
@@ -120,8 +118,7 @@ header {
     position: absolute;
     height: 50%;
     width: auto;
-    /* fill: #0288d1; */
-    fill: #FF0066;
+    fill: gray;
     opacity: .1;
 }
 
@@ -163,6 +160,7 @@ article {
     align-items: center;
     width: 100%;
     max-width: 340px;
+    line-height: 1.7em;
 }
 
 #hirfSkull {
@@ -184,7 +182,8 @@ article {
 }
 
 .subHead {
-    padding-top: 15px;
+    margin-top: 75px;
+    padding-top: -60px;
     padding-bottom: 15px;
     padding-left: 50px;
     font-size: 1.5em;
@@ -215,7 +214,9 @@ footer {
     align-items: center;
 }
 
-.years {}
+.years {
+    color: #FF0066;
+}
 
 .items {
     padding-top: 15px;
@@ -232,11 +233,22 @@ footer {
     word-wrap: break-word;
 }
 
+#contactLinks {
+    line-height: 3em;
+}
+
 .svgIcon {
-    fill: #0288d1;
     width: 30px;
     height: auto;
     vertical-align: middle;
+}
+
+.blueIcon {
+    fill: #0288d1;
+}
+
+.blackIcon {
+    fill: black;
 }
 
 .link {
