@@ -153,6 +153,11 @@ article {
     font-size: 7mm;
 }
 
+#landing_svg {
+    align-items: stretch;
+    text-align: center;
+}
+
 #aboutContent {
     display: flex;
     justify-content: space-around;
