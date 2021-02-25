@@ -1,6 +1,7 @@
 {
     "devDependencies": {
         "browser-sync": "",
+        "gulp": "*",
         "gulp-inject-svg": "*",
         "gulp-svgmin": "*",
         "del": "*"
