@@ -31,8 +31,8 @@
   </head>
 
   <body>
-    <header role="menubar">
-      <div id="headerContent">
+    <header role="banner">
+      <div id="headerContent" role="navigation">
         <svg
           class="bar"
           xmlns="http://www.w3.org/2000/svg"
@@ -47,7 +47,7 @@
             title="about"
             rel="noopener noreferrer"
             target="_blank"
-            role="menuitem"
+            role="button"
             aria-label="anker link to my description"
           >
             <a href="#about">about</a>
@@ -75,7 +75,7 @@
             title="awards"
             rel="noopener noreferrer"
             target="_blank"
-            role="menuitem"
+            role="button"
             aria-label="anker link to my awards"
           >
             <a href="#awards">awards</a>
@@ -103,7 +103,7 @@
             title="products"
             rel="noopener noreferrer"
             target="_blank"
-            role="menuitem"
+            role="button"
             aria-label="anker link to my products"
           >
             <a href="#products">products</a>
@@ -131,7 +131,7 @@
             title="contact"
             rel="noopener noreferrer"
             target="_blank"
-            role="menuitem"
+            role="button"
             aria-label="anker link to contact"
           >
             <a href="#contact">contact</a>
@@ -155,7 +155,7 @@
         </svg>
       </div>
     </header>
-    <main class="container">
+    <main class="container" role="main">
       <section id="landing">
         <article id="landing_svg">
           <svg
@@ -175,7 +175,7 @@
 
       <section id="about">
         <p class="subHead">about</p>
-        <article>
+        <article role="article">
           <div id="aboutContent">
             <svg
               id="hirfSkull"
@@ -202,7 +202,7 @@
 
       <section id="awards">
         <p class="subHead">awards</p>
-        <article>
+        <article role="article">
           <p class="years" style="padding-top: 15px">2018</p>
           <div class="items">
             <div class="thumbnail">
@@ -403,7 +403,7 @@
 
       <section id="products">
         <p class="subHead">products</p>
-        <article>
+        <article role="article">
           <div class="items">
             <div class="thumbnail"></div>
             <div class="description">
@@ -415,7 +415,7 @@
 
       <section id="contact">
         <p class="subHead">contact</p>
-        <article id="contactLinks">
+        <article id="contactLinks" role="article">
           <p>
             <a
               class="link"
@@ -456,7 +456,7 @@
       </section>
     </main>
 
-    <footer>
+    <footer role="contentinfo">
       <div id="footerContent">
         <div>Copyright © 2017 - 2021 ni_n_ja All Rights Reserved.</div>
       </div>
